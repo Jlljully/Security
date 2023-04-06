@@ -4,7 +4,8 @@
 
 1. Установите плагин Bitwarden для браузера. Зарегестрируйтесь и сохраните несколько паролей.
 
-![https://github.com/Jlljully/Security/blob/main/Screenshot_6.png ()]
+![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_6.png "Поставлен")
+![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_7.png "Привязан")
 
 2. Установите Google Authenticator на мобильный телефон. Настройте вход в Bitwarden-акаунт через Google Authenticator OTP.
 
