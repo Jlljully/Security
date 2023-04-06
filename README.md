@@ -18,6 +18,12 @@
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_10.png "Апач стартован")
+
+![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_9.png "Ключ сгенерен")
+
+![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_8.png "Всем сайтам сайт!")
+
 4. Проверьте на TLS-уязвимости произвольный сайт в интернете (кроме сайтов МВД, ФСБ, МинОбр, НацБанк, РосКосмос, РосАтом, РосНАНО и любых госкомпаний, объектов КИИ, ВПК и т. п.).
 
 ### Ответ
