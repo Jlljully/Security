@@ -36,7 +36,11 @@
  
 ### Ответ
 
+**С одной своей ВМ на другую:**
 
+![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_13.png "Тест")
+
+![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_12.png "Тест")
 
 6. Переименуйте файлы ключей из задания 5. Настройте файл конфигурации SSH-клиента так, чтобы вход на удалённый сервер осуществлялся по имени сервера.
 
