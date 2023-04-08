@@ -60,6 +60,8 @@
 
 ![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_16.png "Дамп")
 
+![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_17.png "Дамп")
+
  ---
  
 ## Задание со звёздочкой* 
