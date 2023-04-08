@@ -58,6 +58,8 @@
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_16.png "Дамп")
+
  ---
  
 ## Задание со звёздочкой* 
