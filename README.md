@@ -48,7 +48,7 @@
 
 **Переименовала mv оба файла в bubu и добавила конфиг файл:**
 
-![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_14.png "Переименование")
+![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_141.png "Переименование")
 
 ![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_15.png "выход-вход")
 
