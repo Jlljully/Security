@@ -80,3 +80,4 @@
 
 ### Ответ
 
+![Скрин](https://github.com/Jlljully/Security/blob/main/Screenshot_19.png "Фаервол")
